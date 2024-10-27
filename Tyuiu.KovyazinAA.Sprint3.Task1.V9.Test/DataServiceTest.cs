@@ -11,7 +11,7 @@ namespace Tyuiu.KovyazinAA.Sprint3.Task1.V9.Test
             int x = 5;
             int strvl = 1;
             int spvl = 4;
-            double wait = 211.349;
+            double wait = 5815.752;
             Assert.AreEqual(wait, ds.GetMultiplySeries(x, strvl, spvl));
         }
     }
