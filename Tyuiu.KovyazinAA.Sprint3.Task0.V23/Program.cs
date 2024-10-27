@@ -9,7 +9,7 @@ namespace Tyuiu.KovyazinAA.Sprint3.Task0.V23
             Console.Title = "Спринт #3 | Выполнил: Ковязин А. А. | ПКТб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Ковязин Андрей Александрович | ПКТб-24-1                      *");
