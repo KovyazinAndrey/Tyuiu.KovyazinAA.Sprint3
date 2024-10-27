@@ -8,7 +8,7 @@ namespace Tyuiu.KovyazinAA.Sprint3.Task1.V9.Lib
             double z = 0;
             while (startValue <= stopValue)
             {
-                z = Math.Pow(300 / (Math.Cos(value) + Math.Pow(value, startValue)), startValue) + z;
+                z = Math.Pow(300.0 / (Math.Cos(value) + Math.Pow(value, startValue)), startValue) + z;
                 startValue++;
             }
             return Math.Round(z, 3);
